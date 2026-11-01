@@ -8,7 +8,7 @@ All retained build documents are in English. Each PvP category has one full natu
 |---|---|---|
 | Solo PvP | **Divination Wizard 20 / merged Lich MR10** | [Complete Lich build](./pathfinder-wrath/WOTR_Lich_Complete_Endgame_Build_EN.md) |
 | Solo PvP | **INT Sword Saint 20 / Trickster MR10 / Death's Consonant Heavy Pick** | [Complete Sword Saint build](./pathfinder-wrath/SwordSaint_Trickster_INT_HeavyPick_IE_SoloPvP.md) |
-| Solo PvP | **Sword Saint 20 / Swarm MR10 / Swarm Size 15 / up to five clones** | [Complete bounded Swarm build](./pathfinder-wrath/WOTR_SwordSaint_Swarm_Size15_Complete_Endgame_Build_EN.md) |
+| Solo PvP | **Fresh-IE INT Sword Saint 20 / Swarm MR10 / target Size 15 / up to five clones; supplied equipment** | [Complete bounded Swarm build](./pathfinder-wrath/WOTR_SwordSaint_Swarm_Size15_Complete_Endgame_Build_EN.md) |
 | Solo PvP | **Divination Wizard 20 / Aeon MR10** | [Complete Aeon build](./pathfinder-wrath/WOTR_Aeon_Divination_Complete_Endgame_Build_EN.md) |
 | Boss PvE reference | Angel Oracle; Kinetic Sharpshooter; Inciter Skald | [PvE collection](./pathfinder-wrath/WOTR_IE_Complete_Endgame_Builds.md) |
 
@@ -25,6 +25,8 @@ All retained build documents are in English. Each PvP category has one full natu
 - Swarm requires an additional fixed Swarm Size, legal clone count and real equipment allocation. An unbounded farmed Swarm is not comparable to a bounded character.
 
 Main-campaign rewards can be used if actually acquired and retained. A fresh Inevitable Excess character does not automatically own Razmir's Mask, a Phylactery or every other DLC reward. The build's legal item-acquisition requirement still applies.
+
+**Current Swarm equipment exception, requested 2026-11-01:** its fresh-IE build may receive original-game equipment without playing the acquisition quests. It uses one current feat table with no inherited Trickster-only critical feats. Item slots, original bonuses, independent clone inventories, finite consumables and the unique-item limit still apply. Attributes, feats, path features, Swarm Size and actions are not granted or edited. Use the same equipment-access allowance for both opponents when comparing this configuration; do not use unavailable loot as a reason to demote only the Swarm. The other files retain their stated progression/acquisition instructions.
 
 ## Mechanism-based comparison
 
@@ -76,8 +78,8 @@ The new files add these distinct, fully declared examples:
 
 | Acting unit | Illustrative initiative | Preparation / inventory assumption |
 |---|---:|---|
-| Size-15 Swarm Sword Saint, original | **74** | Its listed +6 mental headband, +8 physical belt and one Wind Breath |
-| Each of five Swarm clones | **67** | A separately owned +4 INT headband and +4 physical belt for each; no copied Wind Breath |
+| Size-15 Swarm Sword Saint, original | **76** | Supplied Razmir's Mask + Draven's Hat, +8 physical belt and one Wind Breath; INT53/DEX41 |
+| Each of five Swarm clones | **69** | Separate ordinary +6 INT headband and +6 physical belt for each; no copied Wind Breath |
 | Unequipped Swarm clone | **63** | Innate Size-15 and class/feat bonuses only |
 | Divination Wizard / Aeon | **65** | Its listed equipment and a still-active Perfect Form using base-stat differences |
 | The same Aeon without Perfect Form | **62** | Its listed equipment only |
